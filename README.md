@@ -53,3 +53,4 @@ model may interpret the question — it never gets to invent the number.
     <td><a href="https://github.com/vitaliiznak/talweg"><img src="images/talweg-map.png" alt="Talweg — Swiss catchments map and natural-language query planner" width="420"></a></td>
   </tr>
 </table>
+
