@@ -47,3 +47,9 @@ Ask a river a plain-language question and get a deterministic, auditable
 answer: live FOEN/BAFU discharge data, a guarded language-model interface, and
 a receipt that shows exactly which measurement the answer came from. The
 model may interpret the question — it never gets to invent the number.
+
+<table>
+  <tr>
+    <td><a href="https://github.com/vitaliiznak/talweg"><img src="images/talweg-map.png" alt="Talweg — Swiss catchments map and natural-language query planner" width="420"></a></td>
+  </tr>
+</table>
