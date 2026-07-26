@@ -19,8 +19,6 @@
 
 - 🌱 Currently learning: AI agent workflows — multi-step, tool-using agents and how to keep them grounded and auditable.
 
-## Featured work
-
 ### [Befund](https://github.com/vitaliiznak/befund) — recommerce management platform
 
 [![Befund — Sell Studio](images/befund.png)](https://github.com/vitaliiznak/befund)
