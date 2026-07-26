@@ -1,5 +1,22 @@
 # Hi, I'm Vitalii Znak
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+recommerce+and+data+products;Grounded+AI+%E2%80%94+deterministic+where+it+counts;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+FastAPI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vitaliiznak&theme=default&hide_border=true" alt="GitHub streak stats" />
+</p>
+
 ## Featured work
 
 ### [Befund](https://github.com/vitaliiznak/befund) — recommerce management platform
