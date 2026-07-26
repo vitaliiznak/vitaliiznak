@@ -17,6 +17,8 @@
   <img src="https://streak-stats.demolab.com/?user=vitaliiznak&theme=default&hide_border=true" alt="GitHub streak stats" />
 </p>
 
+- 🌱 Currently learning: AI agent workflows — multi-step, tool-using agents and how to keep them grounded and auditable.
+
 ## Featured work
 
 ### [Befund](https://github.com/vitaliiznak/befund) — recommerce management platform
@@ -28,6 +30,14 @@ trade-in buybacks), a buyer-facing storefront, and an operations console with
 deterministic inventory, repricing, and fraud-risk intelligence. Every AI
 suggestion stays editable and requires human review before anything publishes
 or pays out.
+
+<table>
+  <tr>
+    <td><a href="https://github.com/vitaliiznak/befund"><img src="images/befund-trade-in.png" alt="Befund — Trade-In" width="280"></a></td>
+    <td><a href="https://github.com/vitaliiznak/befund"><img src="images/befund-storefront.png" alt="Befund — Storefront" width="280"></a></td>
+    <td><a href="https://github.com/vitaliiznak/befund"><img src="images/befund-operations.png" alt="Befund — Operations intelligence" width="280"></a></td>
+  </tr>
+</table>
 
 ### [Talweg](https://github.com/vitaliiznak/talweg) — Swiss water intelligence
 
