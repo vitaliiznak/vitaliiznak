@@ -1,7 +1,7 @@
 # Hi, I'm Vitalii Znak
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+recommerce+and+data+products;Grounded+AI+%E2%80%94+deterministic+where+it+counts;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Granum+Grid+%E2%80%94+datasets+too+large+to+load;Grounded+AI+%E2%80%94+deterministic+where+it+counts;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+FastAPI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,6 +12,24 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+### [Granum Grid](https://github.com/vitaliiznak/granum-grid) — datasets too large to load
+
+<video src="https://github.com/user-attachments/assets/68cd80c8-c180-4f81-8c98-89a689c15d69" controls width="100%"></video>
+
+A React explorer for ordered data you cannot load all at once: millions to billions of rows, fetched a page at a time, with a map of the whole dataset beside them. Jump to a row, a date, or a name, then come back. The [playground](https://vitaliiznak.github.io/granum-grid/) runs in the browser — a public Parquet file, live Hacker News, and files you open in the tab — with no Granum Grid backend.
+
+[Open the playground](https://vitaliiznak.github.io/granum-grid/) · [Source](https://github.com/vitaliiznak/granum-grid)
+
+Music in the film: “Gear” by Andrew Ev, [Mixkit](https://mixkit.co/free-stock-music/tag/corporate/).
+
+<table>
+  <tr>
+    <td><a href="https://vitaliiznak.github.io/granum-grid/"><img src="https://github.com/vitaliiznak/granum-grid/releases/download/media/jump.png" alt="Jump to a row, with the dataset map showing where it sits" width="280"></a></td>
+    <td><a href="https://vitaliiznak.github.io/granum-grid/"><img src="https://github.com/vitaliiznak/granum-grid/releases/download/media/overview.png" alt="Readings chosen from a map of the whole dataset" width="280"></a></td>
+    <td><a href="https://vitaliiznak.github.io/granum-grid/"><img src="https://github.com/vitaliiznak/granum-grid/releases/download/media/compare.png" alt="Two selected ranges in linked comparison panes" width="280"></a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vitaliiznak&theme=default&hide_border=true" alt="GitHub streak stats" />
